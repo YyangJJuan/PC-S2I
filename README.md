@@ -1,0 +1,3 @@
+# PC-S2I
+This repository contains the official PyTorch implementation of the paper "Structure-to-Image: Zero-Shot Depth Estimation in Colonoscopy via High-Fidelity Sim-to-Real Adaptation", accepted by IEEE ICASSP 2026.
+To address the critical "sim-to-real domain gap" in monocular depth estimation for colonoscopy, we propose the PC-S2I model. This introduces a novel "Structure-to-Image" generation paradigm. Unlike traditional Image-to-Image translation methods, our approach fundamentally redefines the role of the depth map, treating it as the active generative foundation rather than a mere passive constraint.
